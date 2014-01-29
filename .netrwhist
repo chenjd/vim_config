@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/opt/lampp/htdocs/cocos2d-html5/samples/tests/CocoStudioTest'
+let g:netrw_dirhist_2='/home/c/workspace/peach2_cocos2ds/static/src'
+let g:netrw_dirhist_3='/home/c/github/cocos2d-html5'
+let g:netrw_dirhist_4='/home/c/workspace/new_projects/Athena/static/res'
+let g:netrw_dirhist_5='/home/c/github'
